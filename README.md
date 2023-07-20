@@ -1,2 +1,3 @@
 # IMBD-clone
-https://github.com/Jasdeep5119/IMDB.git
+
+https://jasdeep5119.github.io/IMDB/home.html
